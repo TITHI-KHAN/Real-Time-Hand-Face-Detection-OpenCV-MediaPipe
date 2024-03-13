@@ -1,5 +1,9 @@
 # Real-Time-Hand-Face-Detection-OpenCV-MediaPipe
 
+### Utilizes only the MediaPipe library for hand gesture detection.
+
+### Relies solely on hand landmarks detected by the MediaPipe Hands module for gesture recognition.
+
 The provided Python script utilizes the MediaPipe library to detect hand gestures and facial landmarks simultaneously in real-time video captured from a webcam using OpenCV.
 
 Here's a brief overview of the script:
